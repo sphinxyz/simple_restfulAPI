@@ -1,14 +1,13 @@
 # Simple RESTful API
 
+a simple RESTful API demonstration, including `register`, `login`, and `menu` endpoints
+
 <p align="left">
-Dev dep on branch: <br><br>
   <img src="https://img.shields.io/github/package-json/dependency-version/sphinxyz/simple_restfulAPI/express?style=flat-square" />
   <img src="https://img.shields.io/github/package-json/dependency-version/sphinxyz/simple_restfulAPI/jsonwebtoken?style=flat-square"/>
   <img src="https://img.shields.io/github/package-json/dependency-version/sphinxyz/simple_restfulAPI/node-fetch?logo=node-fetch&style=flat-square" />
 
 </p>
-
-a simple RESTful API demonstration, including `register`, `login`, and `menu` endpoints
 
 | HTTP Method | Endpoint        |
 | ----------- | --------------- |
