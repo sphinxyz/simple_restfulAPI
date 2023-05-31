@@ -13,9 +13,12 @@ a simple RESTful API demonstration, including `register`, `login`, and `menu` en
 | PUT         | `/api/menu/:id` |
 | DELETE      | `/api/menu/:id` |
 
-`HTTP Method` > `Body` > `application/json`:
+Postman or Hoppscotch:
+
+`HTTP Method` > `Body` > `application/json`
 
 GET: `/api/register`
+
 GET: `/api/login`
 
 ```json
