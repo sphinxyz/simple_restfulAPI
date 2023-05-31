@@ -20,7 +20,7 @@ a simple RESTful API demonstration, including `register`, `login`, and `menu` en
 | PUT         | `/api/menu/:id` |
 | DELETE      | `/api/menu/:id` |
 
-Postman or Hoppscotch:
+[Postman](https://www.postman.com/) or [Hoppscotch](https://hoppscotch.io/):
 
 `HTTP Method` > `Body` > `application/json`
 
